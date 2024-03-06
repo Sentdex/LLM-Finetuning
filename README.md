@@ -1,4 +1,4 @@
-# LLM-Fine-Tune-Dataset-Create
+# LLM-Fine-Tuning
 Some helpers and examples for creating an LLM fine-tuning dataset
 
 Based on the tutorial video here: https://www.youtube.com/watch?v=pCX_3p40Efc
